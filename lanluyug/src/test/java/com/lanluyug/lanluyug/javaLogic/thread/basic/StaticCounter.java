@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread;
+package com.lanluyug.lanluyug.javaLogic.thread.basic;
 
 public class StaticCounter {
     private static int count = 0;

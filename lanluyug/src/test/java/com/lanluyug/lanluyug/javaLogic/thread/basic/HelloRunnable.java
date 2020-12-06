@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread;
+package com.lanluyug.lanluyug.javaLogic.thread.basic;
 
 public class HelloRunnable implements Runnable{
 

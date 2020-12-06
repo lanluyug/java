@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread;
+package com.lanluyug.lanluyug.javaLogic.thread.basic;
 
 import java.util.Collections;
 import java.util.Map;

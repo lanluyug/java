@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread;
+package com.lanluyug.lanluyug.javaLogic.thread.basic;
 
 /**
  * --** 执行synchronized实例方法过程 **--
