@@ -41,6 +41,7 @@ public class HelloRunnable implements Runnable{
         }
         Thread t = new Thread(new HelloRunnable());
         t.start();
+        // join如果是0，则表示无限期等待，join（）无参数直接调用join（0）
         t.join();
 
         t.setName("main1");
