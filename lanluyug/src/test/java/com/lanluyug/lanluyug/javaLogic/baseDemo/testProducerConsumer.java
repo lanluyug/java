@@ -2,7 +2,7 @@ package com.lanluyug.lanluyug.javaLogic.baseDemo;
 
 import org.junit.jupiter.api.Test;
 
-public class testMain {
+public class testProducerConsumer {
     @Test
     void testBase(){
         // 拆箱
