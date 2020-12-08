@@ -1,4 +1,6 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.consumer;
+
+import com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime.MyBlockingQueue;
 
 public class Producer extends Thread{
     MyBlockingQueue<String> queue;

@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime;
 
 /**
  * wait/notify方法只能在synchronized代码块调用，

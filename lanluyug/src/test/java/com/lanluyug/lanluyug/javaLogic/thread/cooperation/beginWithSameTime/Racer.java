@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime;
 
 public class Racer extends Thread{
     FireFlag fireFlag;

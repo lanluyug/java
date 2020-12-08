@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime;
 
 /**
  * 同时开始线程

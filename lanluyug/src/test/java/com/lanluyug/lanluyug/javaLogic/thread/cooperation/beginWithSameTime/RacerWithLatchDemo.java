@@ -1,5 +1,7 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime;
 
+
+import com.lanluyug.lanluyug.javaLogic.thread.cooperation.waitForEnd.MyLatch;
 
 /**
  * 使用MyLatch实现同时开始

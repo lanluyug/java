@@ -1,6 +1,6 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.consumer;
 
-import java.security.PublicKey;
+import com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime.MyBlockingQueue;
 
 public class Consumer extends Thread{
     MyBlockingQueue<String> queue;

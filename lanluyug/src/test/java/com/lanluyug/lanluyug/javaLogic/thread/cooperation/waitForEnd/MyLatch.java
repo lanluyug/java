@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.waitForEnd;
 
 public class MyLatch {
     private int count;

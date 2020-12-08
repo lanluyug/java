@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.javaLogic.thread.cooperation;
+package com.lanluyug.lanluyug.javaLogic.thread.cooperation.beginWithSameTime;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
