@@ -1,4 +1,4 @@
-package com.lanluyug.lanluyug.leetCode;
+package com.lanluyug.lanluyug.leetCode.random;
 
 public class LongPress {
 
